@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Container{
+    width: 100%;
+}
+.navigation {
+    width: 100%;
+    display: flex;
+    padding: 1rem 5rem;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(1, 17, 28, 1)
+    
+}
+.links a {
+    text-decoration: none;
+    color: white;
+    margin-right: 1rem;
+}
+.btn {
+    padding: 1rem;
+    background: linear-gradient(353.17deg,
+         rgba(133, 133, 133) ,
+         rgba(133, 133, 133, 0.169));
+    color: white !important;
+    border-radius: 40px;
+    text-decoration: none;
+}
+.banner {
+    width: 100%;
+    padding: 5rem;
+    height: 400px;
+    background: linear-gradient(180deg, #01111C 0%, #069379 136.46%);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    align-content: center;
+}
+.share{
+    color: #069379;
+}
+.banner h1{
+    width: 800px;
+    padding-left: 350px;
+    text-align: center;
+    align-items: center;
+}
+.lban{
+    width: 630px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 40px;
+    line-height: 23px;
+}
+.btn1{
+    border-width: 1px;
+    border-color: rgba(255,255,255,1);
+    color: white;
+    background-color: #00856c;
+    width: 100px;
+    height: 45px;
+    border-radius: 50px;
+    border-style: solid;
+    margin-top: 40px;
+    margin-left: 500px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+   
+}
+.banner2{
+    width: 100%;
+        padding: 5rem;
+        height: 400px;
+        background: white;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: black;
+        align-content: center;
+}
+.banner2 h6{
+    width: 607px;
+    line-height: 19px;
+}
+.rec1{
+    width: 100px;
+        float: right;
+            position: absolute;
+            top: 550px;
+            left: 900px;
+}
+.rec2{
+width: 90px;
+    float: right;
+        position: absolute;
+        top: 590px;
+        left: 1020px;
+}
+.rec3{
+width: 90px;
+    float: right;
+        position: absolute;
+        top: 660px;
+        left: 910px;
+}
+.rec4{
+width: 100px;
+    float: left;
+        position: absolute;
+        top: 690px;
+        left: 1020px;
+}
+.banner3{
+width: 100%;
+    display: flex;
+    padding: 5rem;
+}
+.rec6{
+float: right;
+    position: absolute;
+    top: 1160px;
+    left: 80px;
+}
+.rec7{
+    float: right;
+        position: absolute;
+        top: 1160px;
+        left:320px;
+}
+.rec5{
+    margin-right: 50px;
+}
+.banner3 h2{
+    width: 600px;
+    margin-bottom: 10px;
+}
+.banner3 h6{
+    width: 400px;
+    
+    line-height: 30px;
+}
+.banner4{
+width: 100%;
+    display: flex;
+    padding: 5rem;
+    background: linear-gradient(180deg, #01111C 0%, #069379 136.46%);
+        background-size: cover;
+      
+}
+.pro{
+    color: #069379;
+}
+.h2{
+    width: 430px;
+    color: white;
+    padding-top: 50px;
+}
+.span{
+    font-size: small;
+    color: white;
+}
+.from{
+    padding-top: 50px;
+    padding-right: 150px;
+    color: white;
+}
+.banner5{
+    width: 100%;
+        padding: 5rem;
+        height: 400px;
+        background: white;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: black;
+        align-content: center;
+        padding-left: 500px;
+}
+.banner5 input{
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    padding-left: 10px;
+    border-width: 1px;
+    display: block;
+    margin-top: 10px;
+    border-style: solid;
+}
+.get{
+    padding-bottom: 50px;
+    font-weight: 100;
+    width: 305px;
+    height:20px;
+    padding-left: 15px;
+}
+.banner5 h2{
+    padding-left: 25px;
+}
+.banner6{
+    width: 100%;
+        display: flex;
+        padding: 1rem 5rem;
+        align-items: center;
+        justify-content: space-between;
+        background: rgba(1, 17, 28, 1)
+}
+.banner6 h6{
+    color: white;
+}
